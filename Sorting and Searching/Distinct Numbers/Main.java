@@ -1,4 +1,4 @@
-// Source: https://usaco.guide/general/io
+// https://cses.fi/problemset/task/1621/
 
 import java.io.*;
 import java.util.*;
