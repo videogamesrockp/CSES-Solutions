@@ -1,2 +1,2 @@
 # CSES-Solutions
-Java solutions for the CSES Problem Set
+Solutions for the CSES Problem Set
